@@ -9,4 +9,4 @@ Create a browser-based application where employees can generate a secure passwor
 ![Preview](./asstes/images/preview.png)
 
 ## Deployment
-Visit the [Live Application](URL_placeholder)
+Visit the [Live Application](https://calebtkjordan.github.io/password-generator/)
